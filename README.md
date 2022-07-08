@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Owen Wilson API Consumer
+
+This is part one of The Rhys Johns Experiments. This is literally a playground for me to learn React, for both fun and profit. This little toy simply calls the Owen Wilson API and displays the result on a page. That's it.
+
+The design isn't great, but i got to learn a lot. And it was fun laughing about all the wows!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -40,6 +44,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
+
+There isn't a whole lot to learn from me here. It's my first React project I pushed up here.
+
+But to continue the Create React App doco:
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
