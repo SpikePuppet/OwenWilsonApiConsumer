@@ -73,7 +73,7 @@ function Footer() {
       <p>The design is shit, but you get to hear "Wow" over and over again</p>
       <p>Have fun!</p>
       <p>© 2022, Rhys Johns</p>
-      <p>Quotes powered by <a href='https://owen-wilson-wow-api.herokuapp.com/static/media/Logo.3b55998c204f27064b30.png'>The Owen Wilson WOW API</a></p>
+      <p>Quotes powered by <a href='https://owen-wilson-wow-api.herokuapp.com/'>The Owen Wilson WOW API</a></p>
     </footer>
   )
 }
